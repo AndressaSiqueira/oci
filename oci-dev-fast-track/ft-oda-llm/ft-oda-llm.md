@@ -1,4 +1,4 @@
-# Lab Extra - Provisionando EBS Cloud Manager
+# Lab Extra - Usando LLM no ODA (Oracle Digital Assistant)
 
 ## Introdução
 
@@ -8,7 +8,22 @@ Esse workshop foi desenvolvido com o intuito de demonstrar as funcionalidades co
 
 ### **Pré requisitos**
 
-Esse laboratório não requer pré-requisito.
+Acessar o link maritaca AI
+- Abra o link https://chat.maritaca.ai/auth
+- Clique no botão verde Entrar e crie uma conta ou faça login como mostra o site
+- Ao acessar, clique em meu plano e em "Gerencie forma de pagamento", adicione o metodo de pagamento para utilizar a API
+- Após esta etapa, clique em "Chaves de API no lado inferior como mostra na imagem e gere uma chave API
+- Salve sua chave para utilizar no Lab de Oracle Digital Assistant
+
+Clique no botão verde Entrar e crie uma conta ou faça login como mostra o site
+
+Ao acessar, clique em meu plano e em "Gerencie forma de pagamento", adicione o metodo de pagamento para utilizar a API
+
+ Após esta etapa, clique em "Chaves de API no lado inferior como mostra na imagem e gere uma chave API
+ 
+Salve sua chave para utilizar no Lab de Oracle Digital Assistant
+Documentacões adicionais : API-MARITALK (https://github.com/maritaca)
+
 
 ### **Objetivos**
 Nesse Workshop você vai:

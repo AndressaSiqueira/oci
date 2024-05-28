@@ -44,6 +44,11 @@
     "filename": "../../ft-ebs-cloud-manager/ft-ebs-cloud-manager.md"
   },
   {
+    "title": "Lab Extra: Usando LLM no ODA (Oracle Digital Assistant)",
+    "description": "Descubra o poder da Stack de AI.",
+    "filename": "../../ft-oda-llm/ft-oda-llm.md"
+  },
+  {
       "title": "Need Help?",
       "description": "Solutions to Common Problems and Directions for Receiving Live Help",
       "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier.md"

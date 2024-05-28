@@ -39,6 +39,11 @@
       "filename": "../../ft-operate-cloud-native/ft-operate-cloud-native.md"
   },
   {
+    "title": "Lab Extra: Provisionando EBS Cloud Manager",
+    "description": "Agilize seu EBS com essa ferramenta prática.",
+    "filename": "../../ft-ebs-cloud-manager/ft-ebs-cloud-manager.md"
+  },
+  {
       "title": "Need Help?",
       "description": "Solutions to Common Problems and Directions for Receiving Live Help",
       "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier.md"
